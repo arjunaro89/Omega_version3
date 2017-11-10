@@ -1,0 +1,80 @@
+.container-fluid {
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+    margin-right: auto;
+    margin-left: auto;
+}  
+
+.carousel-content {
+	color:black;
+	display:flex;
+	align-items:center;
+	background-color: none;
+}
+
+#text-carousel {
+  color:black;
+  width: 100%;
+  height: auto;
+ 
+}
+
+.icons{
+    
+    text-align: left;
+    
+}
+.div_main
+{
+
+}
+.icon-bar
+{
+  background-color: black;
+}
+  .header
+{
+background: white;
+position: fixed;
+z-index: 999;
+height:124px;
+}
+
+
+.text-center1
+{
+ 
+    font-size:16px;
+    
+    color:#5d5d5d;
+    text-align: center;
+   padding-top:2%;
+    padding-bottom:2%;
+  
+    font-family: libre baskerville,serif;
+    font-weight: 400;
+}
+  
+
+
+
+
+.thumbnail
+{
+  border:none;
+    
+}
+
+
+
+
+
+@media only screen and (max-width: 767px) 
+{
+
+	.text-center1 {
+		padding-top: 2%;
+        padding-bottom: 6%;
+	}
+}
+

@@ -1,0 +1,68 @@
+    .carousel-content {
+        color:black;
+        display:flex;
+        align-items:center;
+        background-color: none;
+    }
+
+    #text-carousel {
+      color:black;
+      width: 100%;
+      height: auto;
+      padding: 50px;
+    }
+     {
+      background-image: url('images/img1.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      height:150px;
+        
+   
+    }
+.asset1{
+    
+    padding-bottom:20%;
+    
+    
+}
+
+.heading{
+padding-top: 25px; 
+font-size:20px;
+font-weight:bold; 
+font-family: "Lora";   
+     }
+
+.content
+{
+    padding: 2% 4%; 
+    padding-right:10%;
+    padding-left:10%;
+    font-style:"Lato";
+    font-size:17px;
+    font-weight:400;
+    
+}
+
+    .icon-bar
+    {
+      background-color: black;
+    }
+    .header
+    {
+    background: white;
+    position: fixed;
+    z-index: 999;
+	height:124px;
+    }
+    .text-center1
+    {
+      padding-top:10%;
+    }
+@media only screen and (max-width: 767px) 
+{
+    .text-center1
+    {
+      padding-top:10%;
+    }
+}	

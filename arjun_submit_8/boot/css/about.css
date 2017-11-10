@@ -1,0 +1,112 @@
+  .navbar-nav>li>a
+  {
+    color: black;
+    
+  }
+  .active_menu
+  {
+    color: #c86567;
+  
+  }
+  .navbar-nav>li>a:hover
+  {
+    color:  #c86567;
+    
+  }
+  li
+      {
+        margin-left:8px;
+      }
+
+    .carousel-content {
+        color:black;
+        display:flex;
+        align-items:center;
+        background-color: none;
+    }
+
+    #text-carousel {
+      color:black;
+      width: 100%;
+      height: "120px";
+     
+      padding-top:100px;
+        padding-left:5%;
+        padding-right:5%;
+        padding-bottom:150px;
+    }
+    .div_main
+    {
+      background-image: url('images/img1.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      height:150px;
+        
+   
+    }
+    .icon-bar
+    {
+      background-color: black;
+    }
+    .header
+    {
+    background: white;
+    position: fixed;
+    z-index: 999;
+ height:124px;
+    }
+	.para1
+	{
+		margin-top:4%;
+		font-size:18px;
+        font-family:"Lora";
+        color:#5d5d5d;
+		text-align:center;
+	}
+
+	.para{
+		font-weight:600;
+		font-size:22px;
+		text-align:center;
+		color:#A50022;
+		margin-bottom:2%;
+	}
+	
+	
+        
+
+
+@media only screen and (max-width: 767px) 
+{	
+	.content1
+	{
+	height:auto
+	}
+	.carousel-control {
+	width: 3%;
+	}
+		  .navbar {
+		position: relative;
+		min-height: 70px;
+	  }
+	  .header{
+		  
+		  width:100%
+	  }
+	  	.para1
+	{
+		margin-top:2%;
+		font-size:18px;
+		text-align:center
+	}
+
+	.para{
+		font-weight:900;
+		font-size:18px;
+		text-align:center;
+		color:#C86567;
+		margin-bottom:1%
+	}
+}
+	
+	
